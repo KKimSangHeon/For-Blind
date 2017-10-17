@@ -29,4 +29,4 @@
 # 수상 
 ![작동화면](https://kkimsangheon.github.io/2017/10/17/ablethon/11.jpg)
 많은 분들이 좋게 봐준 덕분에 우수상을 받을 수 있었다.
-![작동화면](https://kkimsangheon.github.io/2017/10/17/ablethon/2.jpg)
+![작동화면](https://kkimsangheon.github.io/2017/10/17/ablethon/22.jpg)
